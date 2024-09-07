@@ -13,7 +13,7 @@
   <img align="left" alt="wytrom's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.instagram.com/akumahalls/">
-  <img align="left" alt="wytrom's Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="akumahalls Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="INDISPONIVEL">
   <img align="left" alt="SokumHeng's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -24,10 +24,10 @@
 # 📊 GitHub Stats:
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wytrom)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api?username=wytrom&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akumahalls)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=akumahalls&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-![Profile views](https://gpvc.arturio.dev/wytrom) 
+![Profile views](https://gpvc.arturio.dev/akumahalls) 
 
 
 ## 🏆 GitHub Trophies
