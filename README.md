@@ -9,7 +9,7 @@
 
 
 <p align="center"> ## 🏆 GitHub Trophies </p> 
-![](https://github-profile-trophy.vercel.app/?username=zRitsu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![](https://github-profile-trophy.vercel.app/?username=zRitsu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center"> ### Languages and Tools: </p>
 <p align="center"> # 📊 GitHub Stats: </p>
