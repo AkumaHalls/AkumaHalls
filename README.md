@@ -7,18 +7,16 @@
 <p align="center"> - 👯 I’m looking to collaborate with other developer </p> 
 <p align="center"> - ⚡ Fun fact: I love to play video games, reading and coding! </p> 
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zRitsu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <p align="center"> ### Languages and Tools: </p>
 <p align="center"> # 📊 GitHub Stats: </p>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akumahalls)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=akumahalls&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zRitsu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ---
