@@ -8,7 +8,7 @@
 <p align="center"> - ⚡ Fun fact: I love to play video games, reading and coding! </p> 
 
 
-## 🏆 GitHub Trophies
+<p align="center"> ## 🏆 GitHub Trophies </p> 
 ![](https://github-profile-trophy.vercel.app/?username=zRitsu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center"> ### Languages and Tools: </p>
