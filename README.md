@@ -7,21 +7,8 @@
 <p align="center"> - 👯 I’m looking to collaborate with other developer </p> 
 <p align="center"> - ⚡ Fun fact: I love to play video games, reading and coding! </p> 
 
-### Connect with me:
-
-<a href="https://www.facebook.com/KovacsCheats">
-  <img align="left" alt="wytrom's Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.instagram.com/akumahalls/">
-  <img align="left" alt="akumahalls Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="INDISPONIVEL">
-  <img align="left" alt="SokumHeng's Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<br/>
-
-### Languages and Tools:
-# 📊 GitHub Stats:
+<p align="center"> ### Languages and Tools: </p>
+<p align="center"> # 📊 GitHub Stats: </p>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akumahalls)](https://github.com/anuraghazra/github-readme-stats)
