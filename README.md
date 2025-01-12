@@ -1,11 +1,11 @@
-## Hi, I am AkumaHalls
-## I am a Developer and here are the things about me!
+<p align="center"> ## Hi, I am AkumaHalls </p> 
+<p align="center"> ## I am a Developer and here are the things about me! </p> 
 
-- 🔭 I’m currently working on Open source projects
-- 🤔 I’m looking for help with any experienced developers
-- 💬 Ask me about anything
-- 👯 I’m looking to collaborate with other developer
-- ⚡ Fun fact: I love to play video games, reading and coding!
+<p align="center"> - 🔭 I’m currently working on Open source projects </p> 
+<p align="center"> - 🤔 I’m looking for help with any experienced developers </p> 
+<p align="center"> - 💬 Ask me about anything </p> 
+<p align="center"> - 👯 I’m looking to collaborate with other developer </p> 
+<p align="center"> - ⚡ Fun fact: I love to play video games, reading and coding! </p> 
 
 ### Connect with me:
 
