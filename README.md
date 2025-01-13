@@ -1,5 +1,4 @@
 <p align="center"> ## Hi, I am AkumaHalls </p> 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant&pause=1000&color=F78C18&width=435&lines=Ol%C3%A1%2C+Eu+sou+o+Ramys!;Bem+vindos+ao+meu+perfil!)](https://git.io/typing-svg)
 <p align="center"> ## I am a Developer and here are the things about me! </p> 
 
 <p align="center"> - 🔭 I’m currently working on Open source projects </p> 
