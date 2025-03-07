@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F727A5&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=akumahalls&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/akumahalls)
-[![Visitor Count](https://visitcount.itsvg.in/api?id=akumahalls&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=akumahalls&icon=5&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -104,13 +104,15 @@ const akumaHalls = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akumahalls/akumahalls/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/yourspotifyusername">
-    <img src="https://novatorem-iota-orpin.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=akumahalls&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Profile"/>
 </div>
 
 <div align="center">
