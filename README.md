@@ -112,7 +112,7 @@ const akumaHalls = {
 </div>
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=Kovacs&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Profile"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wzn5co3zo2stveltvqhemgnkhu&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Profile"/>
 </div>
 
 <div align="center">
